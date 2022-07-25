@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0, 
+        "title": "Learning to code", 
+        "notes": "Just started"
+    },
+    {
+        "id": 1, 
+        "title": "Eat", 
+        "notes": "Eating eggs"
+    },
+    {
+        "id": 2, 
+        "title": "Sleep", 
+        "notes": "Sleep Tight"
+    }
+
+]
